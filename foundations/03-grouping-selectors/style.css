@@ -1,0 +1,14 @@
+.click-me,
+.cooler-click-me{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.click-me {
+    color: white;
+    background-color: black;
+}
+
+.cooler-click-me{
+    background-color: yellow;
+}
